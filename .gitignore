@@ -1,0 +1,6 @@
+__pycache__/
+rceth_informer/rceth_spider/data
+.idea/
+*.sqlite3
+*.db
+poetry.lock
